@@ -1,0 +1,99 @@
+# Privacy Policy
+
+Horo Games (the “Company”) herein establishes this Privacy Policy with respect to the treatment of the Personal Information obtained by the Company and promises to comply with this Privacy Policy, Act on the Protection of Personal Information of Japan and relevant laws and regulations and to treat the Personal Information in an appropriate manner.
+
+---
+
+## Personal Information
+
+The Company may obtain the Personal Information (defined in Article 2.1 of Act on the Protection of Personal Information of Japan) in the course of business activity.
+
+---
+
+## Obtainment of Personal Information
+
+The Company shall expressly show the purpose of utilization and shall not obtain the Personal Information by a deception or wrongful means.
+
+---
+
+## Purpose of Utilization
+
+The Company shall use the Personal Information within the scope necessary for the achievement of the purpose of utilization as follows:
+
+1. To identify or to use an authorization service to identify the principal;
+2. To charge fees of the Company's services;
+3. To respond to opinions, demands or inquiries, etc.;
+4. To perform questionnaires, campaigns or events, etc.;
+5. To advertise the Company or third parties that entrust the Company to advertise;
+6. To perform marketing research or analysis with respect to situation of utilization or implementation of the Company's services;
+7. To survey and analyze for improvement or enhancement of the quality of the Company's services;
+8. To survey and analyze for planning of new services or new functions;
+9. To survey or solve system failures, problems or accidents of the Company's services or network, etc.; and
+10. To otherwise operate the Company's services smoothly.
+
+---
+
+## Provision to Third Parties
+
+The Company shall not provide the Personal Information to third parties without obtaining the prior consent of the principal (including the consent pursuant to a specific provision in terms and conditions of the Company's services) except in the following cases:
+
+1. Cases where the Company discloses to a financial institution, a credit card company or any other payment agency for the purpose of the settlement of the payment;
+2. Cases where the Company entrusts all or part of the business of the Company to a third party;
+3. Cases where the Company discloses to a third party that executes a non-disclosure agreement with the Company;
+4. Cases where the provision of Personal Information is permitted under the Act on the Protection of Personal Information of Japan and any other laws or regulations; or
+5. Cases where a court, a police, a governmental authority such as a tax office or public organization such as a bar association requests the Company to disclose under laws or regulations.
+
+---
+
+## Disclosure, Correction, Deletion, etc.
+
+If you hope to disclose, correct, add or delete your Personal Information under the Act on the Protection of Personal Information of Japan or any other laws and regulations, please contact us.
+
+---
+
+## Security Control Measures
+
+The Company shall make endeavor to keep the Personal Information accurate and up to date, establish and maintain internal rules for security control of the Personal Information, exercise necessary and appropriate supervision over the employees and make endeavor to take reasonable and strict security control measures in terms of technical and organizational matters.
+
+---
+
+## Term of Storage
+
+The Company shall determine the term of storage of the Personal Information within the scope necessary for the achievement of the purpose of utilization and delete the Personal Information after expiration of such term or completion of the purpose of utilization without delay; provided, however, that this shall not apply to any of the following cases:
+
+1. Cases where the Company shall be required to store the Personal Information under applicable laws or regulations;
+2. Cases where the Company obtains the consent of the principal; or
+3. Cases where the Company determines that the Company stores the Personal Information for reasonable reason.
+
+---
+
+## Measures for Leakage
+
+If the leakage of the Personal Information occurs, the Company shall survey facts promptly and take appropriate measures such as notification to the principal.
+
+---
+
+## Continual Improvement
+
+The Company shall make endeavor to continuously improve the treatment of the Personal Information by internal audit or employee education.
+
+---
+
+## Amendment to Privacy Policy
+
+The Company may amend the Privacy Policy without prior notice. In cases where this Privacy Policy has been amended, the Company shall publish such amendment on the website of the Company. Please check such amendment periodically.
+
+---
+
+## Inquiry
+
+For any inquiry, please contact:
+
+📧 sincegim@gmail.com  
+🕘 Business hours: 9:00–17:00
+
+---
+
+## Supplementary Provisions
+
+This Privacy Policy shall become in force and effect as of **June 1, 2022**.
